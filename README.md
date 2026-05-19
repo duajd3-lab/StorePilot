@@ -6,7 +6,7 @@ AI 기반 매장 관리 및 데이터 분석 플랫폼
 
 Vercel을 통해 배포되어 있습니다.
 
-👉 **[https://duajd3-lab.github.io/Weather-Mood/index.html](https://duajd3-lab.github.io/Weather-Mood/index.html)]**
+👉 **[https://store-pilot-gold.vercel.app](https://store-pilot-gold.vercel.app)]**
 
 
 ---
